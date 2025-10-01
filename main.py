@@ -1,5 +1,3 @@
-import os
-
 from haystack.components.agents import Agent
 from haystack.dataclasses import ChatMessage
 from haystack.tools import ComponentTool

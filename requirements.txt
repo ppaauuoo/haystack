@@ -1,2 +1,6 @@
 haystack-ai
 google-genai-haystack
+mcp-haystack
+google-genai-haystack
+gdown
+rich
